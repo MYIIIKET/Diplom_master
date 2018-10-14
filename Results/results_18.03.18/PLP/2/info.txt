@@ -1,0 +1,4 @@
+Dictors: male, female
+QE = 0.290489; TE = 0.089140; ADM = 0.966213;
+Map size: [48 19]
+Iterations: 500

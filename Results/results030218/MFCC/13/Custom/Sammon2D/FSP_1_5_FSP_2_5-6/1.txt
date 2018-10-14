@@ -1,0 +1,16 @@
+Final quantization error: 	0.040
+Final topographic error:  	0.014
+Final combined error:  		0.125
+SOM Distortion:			0.255		
+
+Pecision Errors		QE = 0.053915; TE = 0.008692; ADM = 0.280331;
+Dictors			fsp1;fsp2
+Utterances		train5;train5-6
+
+Data Original		2423
+Data Cropped		2416
+Removed Values		7
+
+Sammon Iterations	100
+
+Map Size		[36, 27]		

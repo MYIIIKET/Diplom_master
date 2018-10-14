@@ -1,0 +1,3 @@
+fsp1-2[1] - red
+fsp7[1] - blue
+no normalization

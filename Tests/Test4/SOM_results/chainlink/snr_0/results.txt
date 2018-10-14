@@ -1,0 +1,30 @@
+Class List in given sample
+     1
+     2
+
+
+Total Instance = 1000
+class1==>1
+class2==>2
+Confusion Matrix
+                     predict_class1    predict_class2
+                     ______________    ______________
+
+    Actual_class1    339               197           
+    Actual_class2    161               303           
+
+Two-Class Confution Matrix
+    ''                   'TruePositive'    'FalsePositive'
+    'FalseNegative'      [         339]    [          197]
+    'TrueNegative=TN'    [         161]    [          303]
+
+Over all valuses
+                          Accuracy: 0.6420
+                             Error: 0.3580
+                       Sensitivity: 0.6325
+                       Specificity: 0.6530
+                         Precision: 0.6780
+                 FalsePositiveRate: 0.3470
+                          F1_score: 0.6544
+    MatthewsCorrelationCoefficient: 0.2847
+                             Kappa: 0.2840

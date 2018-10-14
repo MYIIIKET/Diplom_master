@@ -1,0 +1,8 @@
+Sammon = 0.015561
+
+BATCHTRAIN:
+QE = 0.031907; 
+TE = 0.042150; 
+ADM = 0.128341;
+
+Cello [A2; Gs5]

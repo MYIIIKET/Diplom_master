@@ -1,0 +1,13 @@
+clear all;
+clc;
+% addpath(genpath('C:\Users\MYlll\Desktop\Диплом\Data\Dictors_1\raw\fsp1_FJAZ\fsp1train1.wav'));
+[x, fs] = audioread('C:\Users\MYlll\Desktop\Диплом\Data\Dictors_1\raw\fsp1_FJAZ\fsp1train1.wav');
+mfcc = getMFCC(x,fs);
+% lv = ~sum(x == 0, 2);
+% x = sum(x, 2);
+% x(lv) = x(lv)/2;
+% mfcc = melfcc(x, fs, 'minfreq', 300, 'maxfreq', 8000, 'numcep', 13, 'nbands', 40, 'fbtype', 'fcmel', 'dcttype', 1, 'usecmp', 1, 'wintime', 0.04, 'hoptime', 0.01, 'preemph', 0.97, 'dither', 1);
+% del = deltas(mfcc);
+% ddel = deltas(deltas(mfcc,5),5);
+% mfcc = [mfcc;del;ddel];
+% cello2 = mfcc;

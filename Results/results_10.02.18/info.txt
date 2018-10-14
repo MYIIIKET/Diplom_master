@@ -1,0 +1,15 @@
+Final quantization error: 	0.011
+Final topographic error:  	0.012
+Final combined error:  		0.037
+
+Pecision Errors:
+					QE = 	0.010650;
+					TE = 	0.041443;
+					ADM = 	0.046052;
+						
+Dictors:				fsp1-3
+Utterances:				train1
+		
+Sammon Iterations:			500
+		
+Map Size:				[100, 100]		
